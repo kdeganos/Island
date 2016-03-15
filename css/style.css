@@ -1,7 +1,8 @@
 h1 {
   text-align: center;
-  color: #0641df;
-  font-size: 40px;
+  color: #09510e;
+  font-size: 50px;
+  text-decoration: underline;
 }
 
 h2 {
@@ -13,7 +14,7 @@ h3 {
 }
 
 body {
-  background-color: #add8e6;
+  background-color: #a2cd5a;
   font-family: fantasy;
   text-align: center;
 }
@@ -23,8 +24,9 @@ h4 {
 }
 
 img {
-  border: 1px solid;
-  border-radius: 25px;
+  border: 5px solid;
+  border-color: #66CDAA;
+  border-radius: 500px;
   }
 
 div {
